@@ -1,0 +1,7 @@
+"""
+제출자: 김하은
+"""
+
+a,b = map(int,input().split())
+
+print(a+b)
