@@ -1,22 +1,22 @@
-package 자료구조;
+package baek_1966;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class b_1966 {
+public class baek_1966 {
 	private static final int DEFAULT_CAPACITY = 64; // 최소(기본) 용적 크기
 	
     private int front,rear, size;
     private Object[] array;
 	
-    public b_1966() {
+    public baek_1966() {
     	this.array = new Object[DEFAULT_CAPACITY];
 		this.size = 0;
 		this.front = 0;
 		this.rear = 0;
 	}
     
-    public b_1966 (int data) {
+    public baek_1966 (int data) {
     	this.array = new Object[data];
     	this.size = 0;
 		this.front = 0;
@@ -105,8 +105,8 @@ public class b_1966 {
 			
 			input = sc.nextLine();
 			
-			b_1966 queue = new b_1966();// 문서의 중요도를 순서대로 담을 큐
-			b_1966 sortedQueue = new b_1966();// 문서를 중요도 순으로 정렬 후 담을 큐 
+			baek_1966 queue = new baek_1966();// 문서의 중요도를 순서대로 담을 큐
+			baek_1966 sortedQueue = new baek_1966();// 문서를 중요도 순으로 정렬 후 담을 큐 
 			
 			int[] sortedNumbers = new int[n];
 			
