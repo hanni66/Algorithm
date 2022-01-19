@@ -3,8 +3,8 @@ package baek_2231;
 import java.util.Scanner;
 public class baek_2231 {
 	public static void main(String[] args) {
-		Scanner in = new Scanner(System.in);
-		int N = in.nextInt();
+		Scanner sc = new Scanner(System.in);
+		int N = sc.nextInt();
 		int result = 0;
 
 		for(int i = 0; i < N; i++) {
@@ -20,5 +20,7 @@ public class baek_2231 {
             }
 		}
 		System.out.println(result);
+		
+		sc.close();
 	}
 }
