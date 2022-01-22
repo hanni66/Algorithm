@@ -9,13 +9,12 @@ public class baek_10250 {
 
 			int A = sc.nextInt();
 			int B = sc.nextInt();
-			int C = sc.nextInt();
 
-			if(C % A == 0) {
-				System.out.println((A * 100) + (C / A));
+			if(B % A == 0) {
+				System.out.println((A * 100) + (B / A));
 
 			} else {
-				System.out.println(((C % A) * 100) + ((C / A) + 1));
+				System.out.println(((B % A) * 100) + ((B / A) + 1));
 			}
 		}
         sc.close();
