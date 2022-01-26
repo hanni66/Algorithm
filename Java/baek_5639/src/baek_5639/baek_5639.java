@@ -53,5 +53,7 @@ public class baek_5639 {
 
 		}
 		postOrder(root);    // root를 후위 순회.
+		
+		sc.close();
 	}
 }
