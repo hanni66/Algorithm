@@ -7,7 +7,7 @@
 예를 들어 “(())()”와 “((()))” 는 VPS 이지만 “(()(”, “(())()))” , 그리고 “(()” 는 모두 VPS 가 아닌 문자열이다. 
 여러분은 입력으로 주어진 괄호 문자열이 VPS 인지 아닌지를 판단해서 그 결과를 YES 와 NO 로 나타내어야 한다.  
 */
-package back_9012;
+package baek_9012;
 
 import java.util.ArrayList;
 import java.util.EmptyStackException;
@@ -53,7 +53,7 @@ class Stack {
 	}
 }
 
-public class b_9012 {
+public class baek_9012 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		ArrayList<String> list = new ArrayList<String>();
