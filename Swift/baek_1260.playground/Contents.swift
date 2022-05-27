@@ -25,29 +25,29 @@ let M = input[1]
 let V = input[2]
 
 var graph: [Int:[Int]] = [:]
-var visitedNode: [Int] = []
-var needNode: [Int] = []
+var visited: [Bool] = []
+var visitedQueue: [Int] = []
 
 func BFS() {
-    needNode.append(V)
-    while !needNode.isEmpty {
-        let node = needNode.removeFirst()
-        if visitedNode.contains(node) {
+    visitedQueue.append(V)
+    while !visitedQueue.isEmpty {
+        let node = visitedQueue.removeFirst()
+        if visitedQueue.contains(node) {
             continue
         }
      
-        visitedNode.append(node)
-        needNode += graph[node] ?? []
+        visitedQueue.append(node)
+        visitedQueue += graph[node] ?? []
     }
     
-    print(visitedNode.map { String($0) }.joined(separator: " "))
+    print(visitedQueue.map { String($0) }.joined(separator: " "))
 }
 
 func DFS(node: Int) {
-    if visitedNode.contains(node) {
+    if visitedQueue.contains(node) {
         return
     }
-    visitedNode.append(node)
+    visitedQueue.append(node)
     print(node, terminator: " ")
     
     for i in graph[node]! {
@@ -75,8 +75,8 @@ func printGraph() {
     DFS(node: V)
     print("")
     
-    visitedNode = []
-    needNode = []
+    visited = []
+    visitedQueue = []
     
     BFS()
 }
