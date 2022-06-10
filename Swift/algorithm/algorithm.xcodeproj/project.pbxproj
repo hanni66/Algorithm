@@ -16,6 +16,7 @@
 		2A8A33E2285065B6006DF1D9 /* baek_2869.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8A33E1285065B6006DF1D9 /* baek_2869.swift */; };
 		2A8A33E828506DED006DF1D9 /* baek_9251.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8A33E728506DED006DF1D9 /* baek_9251.swift */; };
 		2A8A33EA28506E0D006DF1D9 /* baek_2309.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8A33E928506E0D006DF1D9 /* baek_2309.swift */; };
+		2A8A33EC28530C26006DF1D9 /* baek_10872.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8A33EB28530C26006DF1D9 /* baek_10872.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,7 @@
 		2A8A33E1285065B6006DF1D9 /* baek_2869.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_2869.swift; sourceTree = "<group>"; };
 		2A8A33E728506DED006DF1D9 /* baek_9251.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_9251.swift; sourceTree = "<group>"; };
 		2A8A33E928506E0D006DF1D9 /* baek_2309.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_2309.swift; sourceTree = "<group>"; };
+		2A8A33EB28530C26006DF1D9 /* baek_10872.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_10872.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				2A8A33E1285065B6006DF1D9 /* baek_2869.swift */,
 				2A8A33E728506DED006DF1D9 /* baek_9251.swift */,
 				2A8A33E928506E0D006DF1D9 /* baek_2309.swift */,
+				2A8A33EB28530C26006DF1D9 /* baek_10872.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				2A8A33D628460996006DF1D9 /* baek_1931.swift in Sources */,
 				2A8A33CF284080E5006DF1D9 /* main.swift in Sources */,
 				2A8A33E828506DED006DF1D9 /* baek_9251.swift in Sources */,
+				2A8A33EC28530C26006DF1D9 /* baek_10872.swift in Sources */,
 				2A8A33DC2848BB7B006DF1D9 /* baek_2480.swift in Sources */,
 				2A8A33DA2848B8A7006DF1D9 /* baek_2884.swift in Sources */,
 			);
