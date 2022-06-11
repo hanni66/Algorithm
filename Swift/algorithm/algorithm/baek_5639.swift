@@ -41,5 +41,3 @@ func b5639() {
 
     postOrder(startt: 0, endd: binaryList.count)
 }
-
-b5639()
