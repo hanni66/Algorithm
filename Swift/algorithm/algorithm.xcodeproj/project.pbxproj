@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A6003AB2854D4A500D17A88 /* baek_5639.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6003AA2854D4A500D17A88 /* baek_5639.swift */; };
 		2A8A33CF284080E5006DF1D9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8A33CE284080E5006DF1D9 /* main.swift */; };
 		2A8A33D628460996006DF1D9 /* baek_1931.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8A33D528460996006DF1D9 /* baek_1931.swift */; };
 		2A8A33DA2848B8A7006DF1D9 /* baek_2884.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8A33D92848B8A7006DF1D9 /* baek_2884.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2A6003AA2854D4A500D17A88 /* baek_5639.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_5639.swift; sourceTree = "<group>"; };
 		2A8A33CB284080E5006DF1D9 /* algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A8A33CE284080E5006DF1D9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		2A8A33D528460996006DF1D9 /* baek_1931.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_1931.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				2A8A33E928506E0D006DF1D9 /* baek_2309.swift */,
 				2A8A33EB28530C26006DF1D9 /* baek_10872.swift */,
 				2A8A33ED28531030006DF1D9 /* baek_1546.swift */,
+				2A6003AA2854D4A500D17A88 /* baek_5639.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				2A8A33EC28530C26006DF1D9 /* baek_10872.swift in Sources */,
 				2A8A33DC2848BB7B006DF1D9 /* baek_2480.swift in Sources */,
 				2A8A33DA2848B8A7006DF1D9 /* baek_2884.swift in Sources */,
+				2A6003AB2854D4A500D17A88 /* baek_5639.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
