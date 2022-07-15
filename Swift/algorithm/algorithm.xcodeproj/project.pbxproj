@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2A3D69BC287E896E00FBD21C /* programmersGymSuit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */; };
+		2A3D69C028812FBD00FBD21C /* baek_5691.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69BF28812FBD00FBD21C /* baek_5691.swift */; };
 		2A6003AB2854D4A500D17A88 /* baek_5639.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6003AA2854D4A500D17A88 /* baek_5639.swift */; };
 		2A6003DC286C979300D17A88 /* leet_PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6003DB286C979300D17A88 /* leet_PalindromeNumber.swift */; };
 		2A6003DE286C995900D17A88 /* baek_10951.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6003DD286C995900D17A88 /* baek_10951.swift */; };
@@ -39,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmersGymSuit.swift; sourceTree = "<group>"; };
+		2A3D69BF28812FBD00FBD21C /* baek_5691.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_5691.swift; sourceTree = "<group>"; };
 		2A6003AA2854D4A500D17A88 /* baek_5639.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_5639.swift; sourceTree = "<group>"; };
 		2A6003DB286C979300D17A88 /* leet_PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leet_PalindromeNumber.swift; sourceTree = "<group>"; };
 		2A6003DD286C995900D17A88 /* baek_10951.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_10951.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				2A6003DD286C995900D17A88 /* baek_10951.swift */,
 				2A6004212874695F00D17A88 /* leet_Roman to Integer.swift */,
 				2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */,
+				2A3D69BF28812FBD00FBD21C /* baek_5691.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 				2A8A33DA2848B8A7006DF1D9 /* baek_2884.swift in Sources */,
 				2A6003AB2854D4A500D17A88 /* baek_5639.swift in Sources */,
 				2A6003DC286C979300D17A88 /* leet_PalindromeNumber.swift in Sources */,
+				2A3D69C028812FBD00FBD21C /* baek_5691.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
