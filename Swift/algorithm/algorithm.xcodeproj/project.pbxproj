@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A3D69BC287E896E00FBD21C /* programmersGymSuit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */; };
 		2A6003AB2854D4A500D17A88 /* baek_5639.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6003AA2854D4A500D17A88 /* baek_5639.swift */; };
 		2A6003DC286C979300D17A88 /* leet_PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6003DB286C979300D17A88 /* leet_PalindromeNumber.swift */; };
 		2A6003DE286C995900D17A88 /* baek_10951.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6003DD286C995900D17A88 /* baek_10951.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmersGymSuit.swift; sourceTree = "<group>"; };
 		2A6003AA2854D4A500D17A88 /* baek_5639.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_5639.swift; sourceTree = "<group>"; };
 		2A6003DB286C979300D17A88 /* leet_PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leet_PalindromeNumber.swift; sourceTree = "<group>"; };
 		2A6003DD286C995900D17A88 /* baek_10951.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_10951.swift; sourceTree = "<group>"; };
@@ -85,8 +87,8 @@
 		2A8A33CD284080E5006DF1D9 /* algorithm */ = {
 			isa = PBXGroup;
 			children = (
-				2A8A33DB2848BB7B006DF1D9 /* baek_2480.swift */,
 				2A8A33CE284080E5006DF1D9 /* main.swift */,
+				2A8A33DB2848BB7B006DF1D9 /* baek_2480.swift */,
 				2A8A33D528460996006DF1D9 /* baek_1931.swift */,
 				2A8A33D92848B8A7006DF1D9 /* baek_2884.swift */,
 				2A8A33DD2848BD45006DF1D9 /* programmers1.swift */,
@@ -100,6 +102,7 @@
 				2A6003DB286C979300D17A88 /* leet_PalindromeNumber.swift */,
 				2A6003DD286C995900D17A88 /* baek_10951.swift */,
 				2A6004212874695F00D17A88 /* leet_Roman to Integer.swift */,
+				2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				2A6003DE286C995900D17A88 /* baek_10951.swift in Sources */,
 				2A8A33EA28506E0D006DF1D9 /* baek_2309.swift in Sources */,
 				2A8A33E2285065B6006DF1D9 /* baek_2869.swift in Sources */,
+				2A3D69BC287E896E00FBD21C /* programmersGymSuit.swift in Sources */,
 				2A8A33E02848C085006DF1D9 /* leetcodeTwoSum.swift in Sources */,
 				2A8A33EE28531030006DF1D9 /* baek_1546.swift in Sources */,
 				2A8A33D628460996006DF1D9 /* baek_1931.swift in Sources */,
