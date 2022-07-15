@@ -1,4 +1,4 @@
 // 문제 연습
 import Foundation
 
-b5691()
+b10871()
