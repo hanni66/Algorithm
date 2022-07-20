@@ -26,6 +26,7 @@
 		2A8A33EC28530C26006DF1D9 /* baek_10872.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8A33EB28530C26006DF1D9 /* baek_10872.swift */; };
 		2A8A33EE28531030006DF1D9 /* baek_1546.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8A33ED28531030006DF1D9 /* baek_1546.swift */; };
 		2AE7E8872886EF2000B46581 /* baek_4673.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE7E8862886EF2000B46581 /* baek_4673.swift */; };
+		2AE7E8892888134D00B46581 /* baek_1476.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE7E8882888134D00B46581 /* baek_1476.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -61,6 +62,7 @@
 		2A8A33EB28530C26006DF1D9 /* baek_10872.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_10872.swift; sourceTree = "<group>"; };
 		2A8A33ED28531030006DF1D9 /* baek_1546.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_1546.swift; sourceTree = "<group>"; };
 		2AE7E8862886EF2000B46581 /* baek_4673.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_4673.swift; sourceTree = "<group>"; };
+		2AE7E8882888134D00B46581 /* baek_1476.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_1476.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				2A3D69BF28812FBD00FBD21C /* baek_5691.swift */,
 				2A3D69C12881381F00FBD21C /* baek_10871.swift */,
 				2AE7E8862886EF2000B46581 /* baek_4673.swift */,
+				2AE7E8882888134D00B46581 /* baek_1476.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				2A8A33DA2848B8A7006DF1D9 /* baek_2884.swift in Sources */,
 				2A6003AB2854D4A500D17A88 /* baek_5639.swift in Sources */,
 				2A6003DC286C979300D17A88 /* leet_PalindromeNumber.swift in Sources */,
+				2AE7E8892888134D00B46581 /* baek_1476.swift in Sources */,
 				2A3D69C028812FBD00FBD21C /* baek_5691.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
