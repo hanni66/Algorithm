@@ -27,6 +27,9 @@
 		2A8A33EE28531030006DF1D9 /* baek_1546.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8A33ED28531030006DF1D9 /* baek_1546.swift */; };
 		2AE7E8872886EF2000B46581 /* baek_4673.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE7E8862886EF2000B46581 /* baek_4673.swift */; };
 		2AE7E8892888134D00B46581 /* baek_1476.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE7E8882888134D00B46581 /* baek_1476.swift */; };
+		2AEFB38E289E38FF00B6E12D /* Toss4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEFB38D289E38FF00B6E12D /* Toss4.swift */; };
+		2AEFB390289E404900B6E12D /* Toss1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEFB38F289E404900B6E12D /* Toss1.swift */; };
+		2AEFB392289E573300B6E12D /* programmersTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEFB391289E573300B6E12D /* programmersTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -63,6 +66,9 @@
 		2A8A33ED28531030006DF1D9 /* baek_1546.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_1546.swift; sourceTree = "<group>"; };
 		2AE7E8862886EF2000B46581 /* baek_4673.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_4673.swift; sourceTree = "<group>"; };
 		2AE7E8882888134D00B46581 /* baek_1476.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_1476.swift; sourceTree = "<group>"; };
+		2AEFB38D289E38FF00B6E12D /* Toss4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toss4.swift; sourceTree = "<group>"; };
+		2AEFB38F289E404900B6E12D /* Toss1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toss1.swift; sourceTree = "<group>"; };
+		2AEFB391289E573300B6E12D /* programmersTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmersTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +121,9 @@
 				2A3D69C12881381F00FBD21C /* baek_10871.swift */,
 				2AE7E8862886EF2000B46581 /* baek_4673.swift */,
 				2AE7E8882888134D00B46581 /* baek_1476.swift */,
+				2AEFB38D289E38FF00B6E12D /* Toss4.swift */,
+				2AEFB38F289E404900B6E12D /* Toss1.swift */,
+				2AEFB391289E573300B6E12D /* programmersTest.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -181,6 +190,7 @@
 				2A3D69C22881381F00FBD21C /* baek_10871.swift in Sources */,
 				2A8A33DE2848BD45006DF1D9 /* programmers1.swift in Sources */,
 				2A6003DE286C995900D17A88 /* baek_10951.swift in Sources */,
+				2AEFB392289E573300B6E12D /* programmersTest.swift in Sources */,
 				2A8A33EA28506E0D006DF1D9 /* baek_2309.swift in Sources */,
 				2A8A33E2285065B6006DF1D9 /* baek_2869.swift in Sources */,
 				2A3D69BC287E896E00FBD21C /* programmersGymSuit.swift in Sources */,
@@ -189,8 +199,10 @@
 				2A8A33D628460996006DF1D9 /* baek_1931.swift in Sources */,
 				2A6004222874695F00D17A88 /* leet_Roman to Integer.swift in Sources */,
 				2A8A33CF284080E5006DF1D9 /* main.swift in Sources */,
+				2AEFB390289E404900B6E12D /* Toss1.swift in Sources */,
 				2A8A33E828506DED006DF1D9 /* baek_9251.swift in Sources */,
 				2A8A33EC28530C26006DF1D9 /* baek_10872.swift in Sources */,
+				2AEFB38E289E38FF00B6E12D /* Toss4.swift in Sources */,
 				2A8A33DC2848BB7B006DF1D9 /* baek_2480.swift in Sources */,
 				2A8A33DA2848B8A7006DF1D9 /* baek_2884.swift in Sources */,
 				2A6003AB2854D4A500D17A88 /* baek_5639.swift in Sources */,
