@@ -1,4 +1,3 @@
-package baek_1260;
 
 import java.util.LinkedList;
 import java.util.Queue;

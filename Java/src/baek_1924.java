@@ -1,5 +1,3 @@
-package baek_1924;
-
 import java.io.*;
 import java.util.*;
 

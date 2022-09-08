@@ -1,4 +1,3 @@
-package baek_4153;
 
 import java.util.Scanner;
 import java.util.ArrayList;

@@ -1,4 +1,3 @@
-package baek_2675;
 
 /* 
    문제

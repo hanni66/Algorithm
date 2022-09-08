@@ -1,4 +1,3 @@
-package baek_5639;
 
 import java.io.IOException;
 import java.util.Scanner;

@@ -1,4 +1,3 @@
-package baek_1152;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;

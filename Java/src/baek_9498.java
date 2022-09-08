@@ -1,4 +1,3 @@
-package baek_9498;
 
 import java.util.Scanner;
 public class baek_9498 {

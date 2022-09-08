@@ -1,4 +1,3 @@
-package baek_17478;
 
 import java.util.*;
 

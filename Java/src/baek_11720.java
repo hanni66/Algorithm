@@ -1,4 +1,3 @@
-package baek_11720;
 
 import java.util.Scanner;
 

@@ -1,5 +1,3 @@
-package baek_5543;
-
 import java.util.*;
 
 public class baek_5543 {
