@@ -10,6 +10,7 @@
 		2A3D69BC287E896E00FBD21C /* programmersGymSuit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */; };
 		2A3D69C028812FBD00FBD21C /* baek_5691.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69BF28812FBD00FBD21C /* baek_5691.swift */; };
 		2A3D69C22881381F00FBD21C /* baek_10871.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69C12881381F00FBD21C /* baek_10871.swift */; };
+		2A40D3CE296F07B2004342F6 /* leet_minimun.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A40D3CD296F07B1004342F6 /* leet_minimun.swift */; };
 		2A6003AB2854D4A500D17A88 /* baek_5639.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6003AA2854D4A500D17A88 /* baek_5639.swift */; };
 		2A6003DC286C979300D17A88 /* leet_PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6003DB286C979300D17A88 /* leet_PalindromeNumber.swift */; };
 		2A6003DE286C995900D17A88 /* baek_10951.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6003DD286C995900D17A88 /* baek_10951.swift */; };
@@ -25,6 +26,7 @@
 		2A8A33EA28506E0D006DF1D9 /* baek_2309.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8A33E928506E0D006DF1D9 /* baek_2309.swift */; };
 		2A8A33EC28530C26006DF1D9 /* baek_10872.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8A33EB28530C26006DF1D9 /* baek_10872.swift */; };
 		2A8A33EE28531030006DF1D9 /* baek_1546.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8A33ED28531030006DF1D9 /* baek_1546.swift */; };
+		2ABE77B22968945D000BDC30 /* leet_IntegerToRoman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ABE77B12968945D000BDC30 /* leet_IntegerToRoman.swift */; };
 		2AE7E8872886EF2000B46581 /* baek_4673.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE7E8862886EF2000B46581 /* baek_4673.swift */; };
 		2AE7E8892888134D00B46581 /* baek_1476.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE7E8882888134D00B46581 /* baek_1476.swift */; };
 		2AEFB38E289E38FF00B6E12D /* Toss4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEFB38D289E38FF00B6E12D /* Toss4.swift */; };
@@ -48,6 +50,7 @@
 		2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmersGymSuit.swift; sourceTree = "<group>"; };
 		2A3D69BF28812FBD00FBD21C /* baek_5691.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_5691.swift; sourceTree = "<group>"; };
 		2A3D69C12881381F00FBD21C /* baek_10871.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_10871.swift; sourceTree = "<group>"; };
+		2A40D3CD296F07B1004342F6 /* leet_minimun.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leet_minimun.swift; sourceTree = "<group>"; };
 		2A6003AA2854D4A500D17A88 /* baek_5639.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_5639.swift; sourceTree = "<group>"; };
 		2A6003DB286C979300D17A88 /* leet_PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leet_PalindromeNumber.swift; sourceTree = "<group>"; };
 		2A6003DD286C995900D17A88 /* baek_10951.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_10951.swift; sourceTree = "<group>"; };
@@ -64,6 +67,7 @@
 		2A8A33E928506E0D006DF1D9 /* baek_2309.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_2309.swift; sourceTree = "<group>"; };
 		2A8A33EB28530C26006DF1D9 /* baek_10872.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_10872.swift; sourceTree = "<group>"; };
 		2A8A33ED28531030006DF1D9 /* baek_1546.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_1546.swift; sourceTree = "<group>"; };
+		2ABE77B12968945D000BDC30 /* leet_IntegerToRoman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leet_IntegerToRoman.swift; sourceTree = "<group>"; };
 		2AE7E8862886EF2000B46581 /* baek_4673.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_4673.swift; sourceTree = "<group>"; };
 		2AE7E8882888134D00B46581 /* baek_1476.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_1476.swift; sourceTree = "<group>"; };
 		2AEFB38D289E38FF00B6E12D /* Toss4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toss4.swift; sourceTree = "<group>"; };
@@ -102,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				2A8A33CE284080E5006DF1D9 /* main.swift */,
+				2ABE77B12968945D000BDC30 /* leet_IntegerToRoman.swift */,
 				2A8A33DB2848BB7B006DF1D9 /* baek_2480.swift */,
 				2A8A33D528460996006DF1D9 /* baek_1931.swift */,
 				2A8A33D92848B8A7006DF1D9 /* baek_2884.swift */,
@@ -124,6 +129,7 @@
 				2AEFB38D289E38FF00B6E12D /* Toss4.swift */,
 				2AEFB38F289E404900B6E12D /* Toss1.swift */,
 				2AEFB391289E573300B6E12D /* programmersTest.swift */,
+				2A40D3CD296F07B1004342F6 /* leet_minimun.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -156,7 +162,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1330;
-				LastUpgradeCheck = 1330;
+				LastUpgradeCheck = 1400;
 				TargetAttributes = {
 					2A8A33CA284080E5006DF1D9 = {
 						CreatedOnToolsVersion = 13.3;
@@ -189,6 +195,7 @@
 				2AE7E8872886EF2000B46581 /* baek_4673.swift in Sources */,
 				2A3D69C22881381F00FBD21C /* baek_10871.swift in Sources */,
 				2A8A33DE2848BD45006DF1D9 /* programmers1.swift in Sources */,
+				2ABE77B22968945D000BDC30 /* leet_IntegerToRoman.swift in Sources */,
 				2A6003DE286C995900D17A88 /* baek_10951.swift in Sources */,
 				2AEFB392289E573300B6E12D /* programmersTest.swift in Sources */,
 				2A8A33EA28506E0D006DF1D9 /* baek_2309.swift in Sources */,
@@ -204,6 +211,7 @@
 				2A8A33EC28530C26006DF1D9 /* baek_10872.swift in Sources */,
 				2AEFB38E289E38FF00B6E12D /* Toss4.swift in Sources */,
 				2A8A33DC2848BB7B006DF1D9 /* baek_2480.swift in Sources */,
+				2A40D3CE296F07B2004342F6 /* leet_minimun.swift in Sources */,
 				2A8A33DA2848B8A7006DF1D9 /* baek_2884.swift in Sources */,
 				2A6003AB2854D4A500D17A88 /* baek_5639.swift in Sources */,
 				2A6003DC286C979300D17A88 /* leet_PalindromeNumber.swift in Sources */,
@@ -248,6 +256,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -308,6 +317,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -331,7 +341,9 @@
 		2A8A33D3284080E5006DF1D9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = JVBAL8CV7V;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -342,7 +354,9 @@
 		2A8A33D4284080E5006DF1D9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = JVBAL8CV7V;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
