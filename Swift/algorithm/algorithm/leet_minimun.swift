@@ -7,13 +7,36 @@
 
 import Foundation
 
-func minimumSum(_ num: Int) -> Int {
-    let arr = Array(arrayLiteral: num).sorted()
-    var numm = 0
+func largestOddNumber(_ num: String) -> String {
+    var inum = Int(num)!
+    var startnum = num.startIndex
+    var lastnum : String.Index
     
-    numm = Int(arr[1]+arr[2])
+    if (inum%2 != 0) {
+        return num
+    } else {
+        for i in 1...5 {
+            let poow = pow(10, i)
+            let intpow = (poow as NSDecimalNumber).intValue
+            if (inum / intpow)%2 != 0 {
+                lastnum = num.index(startnum, offsetBy: -(1+i))
+                return String(num[startnum...lastnum])
+            }
+        }
+    }
+    return "error"
+}
+
+func largestOddNumber1(_ num: String) -> String {
+    var newnum = num
     
-    print(numm)
+    for i in newnum.reversed() {
+        if (Int(String(i))!) % 2 == 0 {
+            newnum.removeLast()
+            continue
+        }
+        break
+    }
     
-    return numm
+    return newnum
 }

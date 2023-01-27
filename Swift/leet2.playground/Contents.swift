@@ -1,17 +1,17 @@
 import Foundation
 
-class Solution {
-    let strs = ["flower","flow","flight"]
+func largestOddNumber1(_ num: String) -> String {
+    var newnum = num
     
-    func longestCommonPrefix(_ strs: [String]) -> String {
-        var new = ""
-        
-        for i in 0..<strs.count {
-            if (strs[i].startIndex == strs[i+1].startIndex){
-                new.append(String(strs[i].startIndex))
-            }
+    for i in newnum.reversed() {
+        if (Int(String(i))!) % 2 == 0 {
+            newnum.removeLast()
+            continue
         }
-        
-        return new
+        break
     }
+    
+    return newnum
 }
+
+largestOddNumber1("1234")

@@ -1,4 +1,4 @@
 // 문제 연습
 import Foundation
 
-minimumSum(12)
+convertTime("02:30", "04:30")
