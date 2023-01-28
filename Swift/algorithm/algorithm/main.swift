@@ -1,4 +1,5 @@
 // 문제 연습
 import Foundation
 
-minAddToMakeValid("())")
+integerBreak(10)
+

@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2A02BC372984306E00401FF5 /* leet-MinimumAddtoMakeParenthesesValid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A02BC362984306E00401FF5 /* leet-MinimumAddtoMakeParenthesesValid.swift */; };
+		2A02BC3929845C6300401FF5 /* leet-IntegerBreak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A02BC3829845C6300401FF5 /* leet-IntegerBreak.swift */; };
 		2A3D69BC287E896E00FBD21C /* programmersGymSuit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */; };
 		2A3D69C028812FBD00FBD21C /* baek_5691.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69BF28812FBD00FBD21C /* baek_5691.swift */; };
 		2A3D69C22881381F00FBD21C /* baek_10871.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69C12881381F00FBD21C /* baek_10871.swift */; };
@@ -48,6 +49,7 @@
 
 /* Begin PBXFileReference section */
 		2A02BC362984306E00401FF5 /* leet-MinimumAddtoMakeParenthesesValid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "leet-MinimumAddtoMakeParenthesesValid.swift"; sourceTree = "<group>"; };
+		2A02BC3829845C6300401FF5 /* leet-IntegerBreak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "leet-IntegerBreak.swift"; sourceTree = "<group>"; };
 		2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmersGymSuit.swift; sourceTree = "<group>"; };
 		2A3D69BF28812FBD00FBD21C /* baek_5691.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_5691.swift; sourceTree = "<group>"; };
 		2A3D69C12881381F00FBD21C /* baek_10871.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_10871.swift; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				2A40D3CD296F07B1004342F6 /* leet_minimun.swift */,
 				2A89D9FC29724D7D0052D68F /* leet_MinimunNumberofOperation.swift */,
 				2A02BC362984306E00401FF5 /* leet-MinimumAddtoMakeParenthesesValid.swift */,
+				2A02BC3829845C6300401FF5 /* leet-IntegerBreak.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				2A8A33E2285065B6006DF1D9 /* baek_2869.swift in Sources */,
 				2A3D69BC287E896E00FBD21C /* programmersGymSuit.swift in Sources */,
 				2A8A33E02848C085006DF1D9 /* leetcodeTwoSum.swift in Sources */,
+				2A02BC3929845C6300401FF5 /* leet-IntegerBreak.swift in Sources */,
 				2A8A33EE28531030006DF1D9 /* baek_1546.swift in Sources */,
 				2A89D9FD29724D7D0052D68F /* leet_MinimunNumberofOperation.swift in Sources */,
 				2A8A33D628460996006DF1D9 /* baek_1931.swift in Sources */,
