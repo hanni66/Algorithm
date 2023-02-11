@@ -1,5 +1,4 @@
 // 문제 연습
 import Foundation
 
-integerBreak(10)
-
+solution1234567([1,2,3,4])
