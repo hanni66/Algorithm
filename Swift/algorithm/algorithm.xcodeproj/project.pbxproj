@@ -13,6 +13,9 @@
 		2A02BC3D29854FF500401FF5 /* leet-ClosestDivisors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A02BC3C29854FF500401FF5 /* leet-ClosestDivisors.swift */; };
 		2A02BC3F298E019300401FF5 /* programmers_makePrime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A02BC3E298E019300401FF5 /* programmers_makePrime.swift */; };
 		2A02BC4129976A8400401FF5 /* programmers_budget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A02BC4029976A8400401FF5 /* programmers_budget.swift */; };
+		2A02BC4329A0742B00401FF5 /* programmers_lottos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A02BC4229A0742B00401FF5 /* programmers_lottos.swift */; };
+		2A02BC4529A0744200401FF5 /* programmers_jump.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A02BC4429A0744200401FF5 /* programmers_jump.swift */; };
+		2A02BC4729A07EB600401FF5 /* programmers_matrixFlip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A02BC4629A07EB600401FF5 /* programmers_matrixFlip.swift */; };
 		2A3D69BC287E896E00FBD21C /* programmersGymSuit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */; };
 		2A3D69C028812FBD00FBD21C /* baek_5691.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69BF28812FBD00FBD21C /* baek_5691.swift */; };
 		2A3D69C22881381F00FBD21C /* baek_10871.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69C12881381F00FBD21C /* baek_10871.swift */; };
@@ -58,6 +61,9 @@
 		2A02BC3C29854FF500401FF5 /* leet-ClosestDivisors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "leet-ClosestDivisors.swift"; sourceTree = "<group>"; };
 		2A02BC3E298E019300401FF5 /* programmers_makePrime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmers_makePrime.swift; sourceTree = "<group>"; };
 		2A02BC4029976A8400401FF5 /* programmers_budget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmers_budget.swift; sourceTree = "<group>"; };
+		2A02BC4229A0742B00401FF5 /* programmers_lottos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmers_lottos.swift; sourceTree = "<group>"; };
+		2A02BC4429A0744200401FF5 /* programmers_jump.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmers_jump.swift; sourceTree = "<group>"; };
+		2A02BC4629A07EB600401FF5 /* programmers_matrixFlip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmers_matrixFlip.swift; sourceTree = "<group>"; };
 		2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmersGymSuit.swift; sourceTree = "<group>"; };
 		2A3D69BF28812FBD00FBD21C /* baek_5691.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_5691.swift; sourceTree = "<group>"; };
 		2A3D69C12881381F00FBD21C /* baek_10871.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_10871.swift; sourceTree = "<group>"; };
@@ -145,6 +151,9 @@
 				2A02BC3C29854FF500401FF5 /* leet-ClosestDivisors.swift */,
 				2A02BC3E298E019300401FF5 /* programmers_makePrime.swift */,
 				2A02BC4029976A8400401FF5 /* programmers_budget.swift */,
+				2A02BC4229A0742B00401FF5 /* programmers_lottos.swift */,
+				2A02BC4429A0744200401FF5 /* programmers_jump.swift */,
+				2A02BC4629A07EB600401FF5 /* programmers_matrixFlip.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -221,6 +230,7 @@
 				2A8A33E02848C085006DF1D9 /* leetcodeTwoSum.swift in Sources */,
 				2A02BC3929845C6300401FF5 /* leet-IntegerBreak.swift in Sources */,
 				2A8A33EE28531030006DF1D9 /* baek_1546.swift in Sources */,
+				2A02BC4329A0742B00401FF5 /* programmers_lottos.swift in Sources */,
 				2A89D9FD29724D7D0052D68F /* leet_MinimunNumberofOperation.swift in Sources */,
 				2A8A33D628460996006DF1D9 /* baek_1931.swift in Sources */,
 				2A6004222874695F00D17A88 /* leet_Roman to Integer.swift in Sources */,
@@ -233,8 +243,10 @@
 				2A02BC372984306E00401FF5 /* leet-MinimumAddtoMakeParenthesesValid.swift in Sources */,
 				2A8A33DA2848B8A7006DF1D9 /* baek_2884.swift in Sources */,
 				2A6003AB2854D4A500D17A88 /* baek_5639.swift in Sources */,
+				2A02BC4529A0744200401FF5 /* programmers_jump.swift in Sources */,
 				2A02BC3D29854FF500401FF5 /* leet-ClosestDivisors.swift in Sources */,
 				2A6003DC286C979300D17A88 /* leet_PalindromeNumber.swift in Sources */,
+				2A02BC4729A07EB600401FF5 /* programmers_matrixFlip.swift in Sources */,
 				2AE7E8892888134D00B46581 /* baek_1476.swift in Sources */,
 				2A3D69C028812FBD00FBD21C /* baek_5691.swift in Sources */,
 			);
