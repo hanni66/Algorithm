@@ -26,7 +26,7 @@ func solutionMatrixFlip(_ rows:Int, _ columns:Int, _ queries:[[Int]]) -> [Int] {
     
     for i in queries {
         var tempArr: [Int] = []
-        for j in i[1]..<i[3]
+        for j in i[1]..<i[3]{}
     }
     return []
 }
