@@ -40,6 +40,7 @@
 		2AE7E8872886EF2000B46581 /* baek_4673.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE7E8862886EF2000B46581 /* baek_4673.swift */; };
 		2AE7E8892888134D00B46581 /* baek_1476.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE7E8882888134D00B46581 /* baek_1476.swift */; };
 		2AEFB392289E573300B6E12D /* programmersTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEFB391289E573300B6E12D /* programmersTest.swift */; };
+		2AF022BB29AF640D00038DDE /* baek_23971.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AF022BA29AF640D00038DDE /* baek_23971.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -89,6 +90,7 @@
 		2AE7E8862886EF2000B46581 /* baek_4673.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_4673.swift; sourceTree = "<group>"; };
 		2AE7E8882888134D00B46581 /* baek_1476.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_1476.swift; sourceTree = "<group>"; };
 		2AEFB391289E573300B6E12D /* programmersTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmersTest.swift; sourceTree = "<group>"; };
+		2AF022BA29AF640D00038DDE /* baek_23971.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_23971.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,6 +156,7 @@
 				2A02BC4229A0742B00401FF5 /* programmers_lottos.swift */,
 				2A02BC4429A0744200401FF5 /* programmers_jump.swift */,
 				2A02BC4629A07EB600401FF5 /* programmers_matrixFlip.swift */,
+				2AF022BA29AF640D00038DDE /* baek_23971.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2A02BC4129976A8400401FF5 /* programmers_budget.swift in Sources */,
+				2AF022BB29AF640D00038DDE /* baek_23971.swift in Sources */,
 				2AE7E8872886EF2000B46581 /* baek_4673.swift in Sources */,
 				2A3D69C22881381F00FBD21C /* baek_10871.swift in Sources */,
 				2A8A33DE2848BD45006DF1D9 /* programmers1.swift in Sources */,
