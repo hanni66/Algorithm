@@ -23,6 +23,7 @@
 		2A4669CE29B8AC1F003A0943 /* baek_1157.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4669CD29B8AC1F003A0943 /* baek_1157.swift */; };
 		2A4669D029B8B9E8003A0943 /* baek_2292.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4669CF29B8B9E8003A0943 /* baek_2292.swift */; };
 		2A4669D229C29208003A0943 /* baek_11723.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4669D129C29208003A0943 /* baek_11723.swift */; };
+		2A4669D429C2A755003A0943 /* baek_9655.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4669D329C2A755003A0943 /* baek_9655.swift */; };
 		2A6003AB2854D4A500D17A88 /* baek_5639.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6003AA2854D4A500D17A88 /* baek_5639.swift */; };
 		2A6003DC286C979300D17A88 /* leet_PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6003DB286C979300D17A88 /* leet_PalindromeNumber.swift */; };
 		2A6003DE286C995900D17A88 /* baek_10951.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6003DD286C995900D17A88 /* baek_10951.swift */; };
@@ -76,6 +77,7 @@
 		2A4669CD29B8AC1F003A0943 /* baek_1157.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_1157.swift; sourceTree = "<group>"; };
 		2A4669CF29B8B9E8003A0943 /* baek_2292.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_2292.swift; sourceTree = "<group>"; };
 		2A4669D129C29208003A0943 /* baek_11723.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_11723.swift; sourceTree = "<group>"; };
+		2A4669D329C2A755003A0943 /* baek_9655.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_9655.swift; sourceTree = "<group>"; };
 		2A6003AA2854D4A500D17A88 /* baek_5639.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_5639.swift; sourceTree = "<group>"; };
 		2A6003DB286C979300D17A88 /* leet_PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leet_PalindromeNumber.swift; sourceTree = "<group>"; };
 		2A6003DD286C995900D17A88 /* baek_10951.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_10951.swift; sourceTree = "<group>"; };
@@ -169,6 +171,7 @@
 				2A4669CD29B8AC1F003A0943 /* baek_1157.swift */,
 				2A4669CF29B8B9E8003A0943 /* baek_2292.swift */,
 				2A4669D129C29208003A0943 /* baek_11723.swift */,
+				2A4669D329C2A755003A0943 /* baek_9655.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 				2A4669D029B8B9E8003A0943 /* baek_2292.swift in Sources */,
 				2A8A33EE28531030006DF1D9 /* baek_1546.swift in Sources */,
 				2A02BC4329A0742B00401FF5 /* programmers_lottos.swift in Sources */,
+				2A4669D429C2A755003A0943 /* baek_9655.swift in Sources */,
 				2A89D9FD29724D7D0052D68F /* leet_MinimunNumberofOperation.swift in Sources */,
 				2A4669D229C29208003A0943 /* baek_11723.swift in Sources */,
 				2A8A33D628460996006DF1D9 /* baek_1931.swift in Sources */,
