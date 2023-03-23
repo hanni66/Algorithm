@@ -1,4 +1,4 @@
 // 문제 연습
 import Foundation
 
-Solution1480().runningSum([1,2,3,4])
+Solution724().pivotIndex([1,7,3,6,5,6])

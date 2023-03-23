@@ -17,6 +17,7 @@
 		2A02BC4529A0744200401FF5 /* programmers_jump.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A02BC4429A0744200401FF5 /* programmers_jump.swift */; };
 		2A02BC4729A07EB600401FF5 /* programmers_matrixFlip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A02BC4629A07EB600401FF5 /* programmers_matrixFlip.swift */; };
 		2A28FF7329CC0F2700B1470A /* leet_1480.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A28FF7229CC0F2700B1470A /* leet_1480.swift */; };
+		2A2B964A29CC2202000CDF86 /* leet_724.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2B964929CC2202000CDF86 /* leet_724.swift */; };
 		2A3D69BC287E896E00FBD21C /* programmersGymSuit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */; };
 		2A3D69C028812FBD00FBD21C /* baek_5691.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69BF28812FBD00FBD21C /* baek_5691.swift */; };
 		2A3D69C22881381F00FBD21C /* baek_10871.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3D69C12881381F00FBD21C /* baek_10871.swift */; };
@@ -72,6 +73,7 @@
 		2A02BC4429A0744200401FF5 /* programmers_jump.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmers_jump.swift; sourceTree = "<group>"; };
 		2A02BC4629A07EB600401FF5 /* programmers_matrixFlip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmers_matrixFlip.swift; sourceTree = "<group>"; };
 		2A28FF7229CC0F2700B1470A /* leet_1480.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leet_1480.swift; sourceTree = "<group>"; };
+		2A2B964929CC2202000CDF86 /* leet_724.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leet_724.swift; sourceTree = "<group>"; };
 		2A3D69BB287E896E00FBD21C /* programmersGymSuit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmersGymSuit.swift; sourceTree = "<group>"; };
 		2A3D69BF28812FBD00FBD21C /* baek_5691.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_5691.swift; sourceTree = "<group>"; };
 		2A3D69C12881381F00FBD21C /* baek_10871.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_10871.swift; sourceTree = "<group>"; };
@@ -175,6 +177,7 @@
 				2A4669D129C29208003A0943 /* baek_11723.swift */,
 				2A4669D329C2A755003A0943 /* baek_9655.swift */,
 				2A28FF7229CC0F2700B1470A /* leet_1480.swift */,
+				2A2B964929CC2202000CDF86 /* leet_724.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				2AE7E8872886EF2000B46581 /* baek_4673.swift in Sources */,
 				2A3D69C22881381F00FBD21C /* baek_10871.swift in Sources */,
 				2AF022BD29AF6F7C00038DDE /* baek_5073.swift in Sources */,
+				2A2B964A29CC2202000CDF86 /* leet_724.swift in Sources */,
 				2A8A33DE2848BD45006DF1D9 /* programmers1.swift in Sources */,
 				2A02BC3B298500B000401FF5 /* leet-MinimumDominoRotationsForEqualRow.swift in Sources */,
 				2ABE77B22968945D000BDC30 /* leet_IntegerToRoman.swift in Sources */,
