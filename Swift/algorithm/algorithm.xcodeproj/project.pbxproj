@@ -45,6 +45,7 @@
 		2ABE77B22968945D000BDC30 /* leet_IntegerToRoman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ABE77B12968945D000BDC30 /* leet_IntegerToRoman.swift */; };
 		2AE7E8872886EF2000B46581 /* baek_4673.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE7E8862886EF2000B46581 /* baek_4673.swift */; };
 		2AE7E8892888134D00B46581 /* baek_1476.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE7E8882888134D00B46581 /* baek_1476.swift */; };
+		2AEF7B0729DEB08500CA5A93 /* leet_21.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEF7B0629DEB08500CA5A93 /* leet_21.swift */; };
 		2AEFB392289E573300B6E12D /* programmersTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEFB391289E573300B6E12D /* programmersTest.swift */; };
 		2AF022BB29AF640D00038DDE /* baek_23971.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AF022BA29AF640D00038DDE /* baek_23971.swift */; };
 		2AF022BD29AF6F7C00038DDE /* baek_5073.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AF022BC29AF6F7C00038DDE /* baek_5073.swift */; };
@@ -102,6 +103,7 @@
 		2ABE77B12968945D000BDC30 /* leet_IntegerToRoman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leet_IntegerToRoman.swift; sourceTree = "<group>"; };
 		2AE7E8862886EF2000B46581 /* baek_4673.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_4673.swift; sourceTree = "<group>"; };
 		2AE7E8882888134D00B46581 /* baek_1476.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_1476.swift; sourceTree = "<group>"; };
+		2AEF7B0629DEB08500CA5A93 /* leet_21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leet_21.swift; sourceTree = "<group>"; };
 		2AEFB391289E573300B6E12D /* programmersTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programmersTest.swift; sourceTree = "<group>"; };
 		2AF022BA29AF640D00038DDE /* baek_23971.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_23971.swift; sourceTree = "<group>"; };
 		2AF022BC29AF6F7C00038DDE /* baek_5073.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baek_5073.swift; sourceTree = "<group>"; };
@@ -178,6 +180,7 @@
 				2A4669D329C2A755003A0943 /* baek_9655.swift */,
 				2A28FF7229CC0F2700B1470A /* leet_1480.swift */,
 				2A2B964929CC2202000CDF86 /* leet_724.swift */,
+				2AEF7B0629DEB08500CA5A93 /* leet_21.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 				2A40D3CE296F07B2004342F6 /* leet_minimun.swift in Sources */,
 				2A02BC3F298E019300401FF5 /* programmers_makePrime.swift in Sources */,
 				2A4669CE29B8AC1F003A0943 /* baek_1157.swift in Sources */,
+				2AEF7B0729DEB08500CA5A93 /* leet_21.swift in Sources */,
 				2A02BC372984306E00401FF5 /* leet-MinimumAddtoMakeParenthesesValid.swift in Sources */,
 				2A8A33DA2848B8A7006DF1D9 /* baek_2884.swift in Sources */,
 				2A6003AB2854D4A500D17A88 /* baek_5639.swift in Sources */,
